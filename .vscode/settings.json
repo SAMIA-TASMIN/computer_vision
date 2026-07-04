@@ -1,0 +1,8 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "terminal.integrated.cwd": "D:\\Computer Vision\\Day2",
+    "name": "Git Bash",
+    "commandline": "\"C:\\Program Files\\Git\\bin\\bash.exe\"",
+    "startingDirectory": "D:\\Computer Vision\\Day2",
+    "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico"
+}
